@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{CF5C4178-6430-4D46-B225-56C795430C68}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LAB07xamarin30/MainActivity.cs">
+    <Files>
+      <File FileName="LAB07xamarin30/MainActivity.cs" Line="11" Column="52" />
+      <File FileName="LAB07xamarin30/ServiceHelper.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LAB07xamarin30 AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.PhoneTest" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB07xamarin30", "LAB07xamarin30\LAB07xamarin30.csproj", "{CF5C4178-6430-4D46-B225-56C795430C68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF5C4178-6430-4D46-B225-56C795430C68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF5C4178-6430-4D46-B225-56C795430C68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF5C4178-6430-4D46-B225-56C795430C68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF5C4178-6430-4D46-B225-56C795430C68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

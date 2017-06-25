@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{659BE3E9-0E2A-49E3-9B1B-3081F1121998}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LAB09xamarin30/MainActivity.cs">
+    <Files>
+      <File FileName="LAB09xamarin30/MainActivity.cs" Line="24" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" ActiveRuntime="Mono 5.0.1.1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LAB09xamarin30 AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.New" />
+  <MultiItemStartupConfigurations />
+</Properties>
